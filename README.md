@@ -3,7 +3,7 @@
 Welcome to my Credit Card UI project! In this repository, you'll find a realistic Credit Card User Interface using HTML and CSS.
 
 This project is hosted on GitHub Pages:
-- Credit Card UI Project
+- **Credit Card UI Project
 
 ## Project Overview
 
